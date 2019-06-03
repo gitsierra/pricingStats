@@ -3,6 +3,7 @@ This function can be run from the command line in same directory the parseStats.
 
 These are examples of how to run the program:
 python parseStats.py Data.txt -t1 2017-03-12T09:51:22Z 
+or
 python parseStats.py Data.txt -t1 2017-03-12T09:51:21Z -t2 2017-06-01T13:37:88Z
 
 As for limitations of the code:
