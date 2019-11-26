@@ -9,7 +9,7 @@ python parseStats.py Data.txt -t1 2017-03-12T09:51:21Z -t2 2017-06-01T13:37:88Z
 
 As for limitations of the code:
 It assumes the data in the Data.txt file is formatted correctly.
-I also assumed that the user will give it correctly formatted timestamps and give timestamps in order from oldest to newest.
+I also assumed that the user will give it correctly formatted timestamps and give timestamps in order from oldest to newest (sorting Stats as a new file will be added later).
 
 Thank you for your time,
 Samuel Sierra
